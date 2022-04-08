@@ -1,8 +1,26 @@
 {
   "name": "myfirst",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "moongose": "^1.0.0"
+  },
   "devDependencies": {
     "mongodb": "^4.5.0"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladthetree/jsuebung.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladthetree/jsuebung/issues"
+  },
+  "homepage": "https://github.com/vladthetree/jsuebung#readme",
+  "description": ""
 }
